@@ -61,6 +61,8 @@ Drum-Kit/
 │   ├── crash.mp3
 │   └── kick-bass.mp3
 └── README.md⚙️
+```
+
 How It Works
 User presses a key or clicks a button
 JavaScript detects the event using event listeners
